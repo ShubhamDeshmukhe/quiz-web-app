@@ -1,0 +1,25 @@
+
+@media screen and (max-width:768px) {
+    .box {
+        width: 80%;
+    }
+    h2{
+        font-size: 22px;
+    }
+    li{
+        font-size: 17px;
+    }
+}
+
+
+@media screen and (max-width:450px) {
+    .box {
+        width: 95%;
+    }
+    h2{
+        font-size: 18px;
+    }
+    li{
+        font-size: 14px;
+    }
+}
